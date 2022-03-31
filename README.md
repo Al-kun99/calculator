@@ -1,2 +1,2 @@
-# simple-calculator
-Project Individu Progate, Membuat calculator
+# calculator
+Project Individu Digitalent - Progate, Membuat calculator
